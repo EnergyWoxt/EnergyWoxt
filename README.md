@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnergyWoxt
 - 👀 I’m interested in Computer Graphics and Gamedev.
-- 🌱 I’m currently learning Human Eye Deffect Simulation.
+- 🌱 I’m currently learning Human Eye Deffects Simulation.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
