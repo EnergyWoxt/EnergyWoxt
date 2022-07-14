@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @EnergyWoxt
 - 👀 I’m interested in Computer Graphics and Gamedev.
-- 🌱 I’m currently learning Human Eye Deffects Simulation.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Spring Framework.
 
 <!---
 EnergyWoxt/EnergyWoxt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
